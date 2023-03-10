@@ -1,2 +1,2 @@
 # RuRanobe_Python_API
-Parsing ruranobe.ru
+Примеры обращений есть в тестах
