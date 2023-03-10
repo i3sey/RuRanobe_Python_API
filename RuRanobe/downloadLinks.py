@@ -12,5 +12,5 @@ def downloadLinks(link):
             links.update({an.text: f"https://ruranobe.ru{an['href']}"})
     return links
 
-
-print(downloadLinks('https://ruranobe.ru/r/tnynn/v1'))
+if __name__ == '__main__':
+    print(downloadLinks('https://ruranobe.ru/r/tnynn/v1'))
